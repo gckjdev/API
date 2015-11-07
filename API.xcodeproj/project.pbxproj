@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		369ECA181BEDEC110084439B /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = A31C7A461B539C0600DEA065 /* Info.plist */; settings = {ASSET_TAGS = (); }; };
 		8CAFE1C8008D59B58FA63B43 /* Manager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CAFEE75B76378550535E69A /* Manager.swift */; };
 		8CAFE2149D94C5A2787B441C /* Errors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CAFE9ADD38C140E46E6298D /* Errors.swift */; };
 		8CAFEDEE19D4F5F7E86DC294 /* ServerTime.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CAFEC5318205B07E0A454DB /* ServerTime.swift */; };
@@ -132,6 +133,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				369ECA181BEDEC110084439B /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
